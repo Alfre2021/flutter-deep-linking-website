@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.alfredovictoria.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["8D:F2:D9:6B:79:23:F2:14:F7:0B:00:FE:18:BA:0A:7C:65:83:EF:14:F1:D6:B2:16:98:5C:F7:B2:B0:F0:ED:10"]
+    }
+  }]
